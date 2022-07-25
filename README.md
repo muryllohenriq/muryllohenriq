@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryllohenriq&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## My Skill Set  
+## My Skill Set  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
 <table><tr><td valign="top" width="33%">
 
 ### Front-end  
@@ -37,11 +37,12 @@
  
  ## Connect with me  
  
-<div> 
+<div>  
   <a href="https://instagram.com/muryllohenriqq" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   <a href = "mailto:muryllo.henrique@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/muryllo-henrique-567a0b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
 </div>
