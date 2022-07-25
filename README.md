@@ -41,7 +41,7 @@
 </td></tr></table>  
  
  ## Connect with me   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
-<table><tr><td valign="top" width="33%">
+
  
 <div>  
   <a href="https://instagram.com/muryllohenriqq" target="_blank">
