@@ -2,11 +2,11 @@
 
 ### I'm a Full-Stack Developer in love with Front-End
 
-- 🔭 I’m currently working on a few secret projects (for now)
-- 🌱 I’m currently learning Full-Stack Development - Gama Academy
-- 👯 I’m looking to collaborate on any challenging adventure
-- 📫 How to reach me: down below
-- ⚡ Fun fact: I love music and movies
+- 🔭 I’m currently working on a **few secret projects (for now)**
+- 🌱 I’m currently learning **Full-Stack Development - Gama Academy**
+- 👯 I’m looking to collaborate on **any challenging adventure**
+- 📫 How to reach me: **down below**
+- ⚡ Fun fact: I love **music and movies**
 <!-- 📄 Know about my experiences in my [ curriculum ]()-->
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=muryllohenriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
