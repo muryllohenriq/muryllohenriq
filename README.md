@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer in love with Front-End
 
-- 🔭 I’m currently working on some secrets projects (for now)
+- 🔭 I’m currently working on some secret projects (for now)
 - 👯 I’m looking to collaborate on any challenging adventure
 - 📫 How to reach me: down below
 - ⚡ Fun fact: I love music and movies
