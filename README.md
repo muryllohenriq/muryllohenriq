@@ -10,7 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryllohenriq&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## My Skill Set 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
 
 ### Front-end  
 <div align="center">  
@@ -24,6 +27,8 @@
 
 </td><td valign="top" width="33%">
 
+
+
 ### Back-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
@@ -31,8 +36,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
-</td></tr></table>
-
+</td></tr></table>  
  
  ## Connect with me   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
 <table><tr><td valign="top" width="33%">
