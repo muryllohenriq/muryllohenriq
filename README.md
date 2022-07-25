@@ -10,8 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryllohenriq&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## My Skill Set  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
-<table><tr><td valign="top" width="33%">
+## My Skill Set 
 
 ### Front-end  
 <div align="center">  
@@ -35,7 +34,8 @@
 </td></tr></table>
 
  
- ## Connect with me  
+ ## Connect with me   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
+<table><tr><td valign="top" width="33%">
  
 <div>  
   <a href="https://instagram.com/muryllohenriqq" target="_blank">
