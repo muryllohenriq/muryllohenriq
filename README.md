@@ -1,11 +1,12 @@
-### Hello there wonderful people! 👋
+## Hello there wonderful people! 👋
+
+### I'm a Full-Stack Developer in love with Front-End
 
 - 🔭 I’m currently working on some secret projects (for now)
 - 👯 I’m looking to collaborate on any challenging adventure
 - 📫 How to reach me: down below
 - ⚡ Fun fact: I love music and movies
-- 📄 Know about my experiences in my
-
+<!-- 📄 Know about my experiences in my [ curriculum ]()-->
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=muryllohenriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryllohenriq&layout=compact&langs_count=7&theme=dark"/>
@@ -47,7 +48,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   <a href = "mailto:muryllo.henrique@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/muryllo-henrique-567a0b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/muryllo-henrique-567a0b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5564996959519" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
  
  
 </div>
