@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer in love with Front-End
 
-- 🔭 I’m currently working on a **few secret projects (for now)**
+- 🔭 I’m currently working on a **Gama Experience - 44**
 - 🌱 I’m currently learning **Full-Stack Development - Gama Academy**
 - 👯 I’m looking to collaborate on **any challenging adventure**
 - 📫 How to reach me: **down below**
