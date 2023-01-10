@@ -2,8 +2,8 @@
 
 ### I'm a Full-Stack Developer in love with Front-End
 
-- 🔭 I’m currently working on **Gama Experience - 44**
-- 🌱 I’m currently learning **Full-Stack Development - Gama Academy**
+- 🔭 I’m currently working on **Personal projects, freelas and volunteer projects**
+- 🌱 I’m currently learning **React with typescript and some styling libraries**
 - 👯 I’m looking to collaborate on **any challenging adventure**
 - 📫 How to reach me: **down below**
 - ⚡ Fun fact: I love **music and movies**
