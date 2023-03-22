@@ -1,19 +1,19 @@
-## Hello there wonderful people! 👋
+## Olá, mundo! 👋
 
-### I'm a Full-Stack Developer in love with Front-End
+### Sou um desenvolvedor Front-End apaixonado por bonitos designs!
 
-- 🔭 I’m currently working on **Personal projects, freelas and volunteer projects**
-- 🌱 I’m currently learning **React with typescript and some styling libraries**
-- 👯 I’m looking to collaborate on **any challenging adventure**
-- 📫 How to reach me: **down below**
-- ⚡ Fun fact: I love **music and movies**
+- 🔭 Trabalho atualmente em **Projetos pessoais, freelances e projetos voluntários**
+- 🌱 Estou estudando atualmente **React com typescript e algumas bibliotecas de estilização**
+- 👯 Procuro colaborar em **Qualquer aventura que exija algum desafio!**
+- 📫 Como me contatar: **logo abaixo**
+- ⚡ Fun fact: Eu amo, além de design, **música e cinema**
 <!-- 📄 Know about my experiences in my [ curriculum ]()-->
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=muryllohenriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryllohenriq&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-## My Skill Set  
+## Minhas habilidades  
 <table><tr><td valign="top" width="33%">
 
 
@@ -49,7 +49,7 @@
 
 </td></tr></table>  
  
- ## Connect with me   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
+ ## Entre em contato comigo   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
 
  
 <div>  
