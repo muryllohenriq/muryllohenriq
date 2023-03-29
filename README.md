@@ -1,6 +1,6 @@
 ## Olá, mundo! 👋
 
-### Sou um desenvolvedor Front-End apaixonado por bonitos designs!
+### Sou um desenvolvedor Front-End apaixonado por um design bonito!
 
 - 🔭 Trabalho atualmente em **Projetos pessoais, freelances e projetos voluntários**
 - 🌱 Estou estudando atualmente **React com typescript e algumas bibliotecas de estilização**
