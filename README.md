@@ -3,7 +3,7 @@
 ### Sou um desenvolvedor Front-End apaixonado por um design bonito!
 
 - 🔭 Trabalho atualmente em **Projetos pessoais, freelances e projetos voluntários**
-- 🌱 Estou estudando atualmente **React com typescript e algumas bibliotecas de estilização**
+- 🌱 Estou estudando atualmente **React com typescript, algumas bibliotecas de estilização e Ciência da Computação**
 - 👯 Procuro colaborar em **Qualquer aventura que exija algum desafio!**
 - 📫 Como me contatar: **logo abaixo**
 - ⚡ Fun fact: Eu amo, além de design, **música e cinema**
