@@ -1,12 +1,12 @@
 ## Olá, mundo! 👋
 
-### Sou um desenvolvedor Front-End apaixonado por um design bonito!
+### Prazer, Muryllo, Dev Full-Stack 😁
 
-- 🔭 Trabalho atualmente em **Projetos pessoais, freelances e projetos voluntários**
+- 🔭 Trabalho atualmente com **projetos pessoais e freelances**
 - 🌱 Estou estudando atualmente **para uma certificação AWS e cursando Ciência da Computação**
-- 👯 Procuro colaborar em **Qualquer aventura que exija algum desafio!**
+- 👯 Procuro colaborar em **qualquer projeto desafiador**
 - 📫 Como me contatar: **logo abaixo**
-- ⚡ Fun fact: Eu amo, além de design, **música e cinema**
+- ⚡ Fun fact: Eu amo **música, cinema e competitividade**
 <!-- 📄 Know about my experiences in my [ curriculum ]()-->
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=muryllohenriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
