@@ -2,8 +2,8 @@
 
 ### Prazer, Muryllo, Dev Full-Stack 😁
 
-- 🔭 Trabalho atualmente com **projetos pessoais e freelances**
-- 🌱 Estou estudando atualmente **para uma certificação AWS e cursando Ciência da Computação**
+- 🔭 Trabalho atualmente na **BEES**
+- 🌱 Estou estudando atualmente **React e TypeScript**
 - 👯 Procuro colaborar em **qualquer projeto desafiador**
 - 📫 Como me contatar: **logo abaixo**
 - ⚡ Fun fact: Eu amo **música, cinema e jogos competitivos**
