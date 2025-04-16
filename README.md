@@ -1,19 +1,10 @@
-## Olá, mundo! 👋
-
-### Prazer, Muryllo, Dev Full-Stack 😁
-
-- 🔭 Trabalho atualmente na **BEES | AB-INBEV**
-- 🌱 Estou estudando atualmente **React e TypeScript**
-- 👯 Procuro colaborar em **qualquer projeto desafiador**
-- 📫 Como me contatar: **logo abaixo**
-- ⚡ Fun fact: Eu amo **música e cinema**
 <!-- 📄 Know about my experiences in my [ curriculum ]()-->
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=muryllohenriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muryllohenriq&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-## Minhas habilidades  
+## Tecnologias  
 <table><tr><td valign="top" width="33%">
 
 
@@ -51,7 +42,7 @@
 
 </td></tr></table>  
  
- ## Entre em contato comigo   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
+ ## Contato   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" height="200" width="200" /> 
 
  
 <div>  
