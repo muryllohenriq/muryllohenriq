@@ -21,7 +21,6 @@
     alt="Top Langs"
     height="200"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
     alt="Daft Punk Octocat"
