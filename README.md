@@ -15,7 +15,7 @@
     alt="Muryllo's GitHub stats"
     height="180"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=muryllohenriq&theme=gotham"
     alt="Top Langs"
