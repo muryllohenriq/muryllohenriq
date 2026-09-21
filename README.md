@@ -13,19 +13,19 @@
   <img
     src="https://github-stats-extended.vercel.app/api?username=muryllohenriq&theme=solarized-light&show_icons=true"
     alt="Muryllo's GitHub stats"
-    height="200"
+    height="150"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=muryllohenriq&theme=gotham"
     alt="Top Langs"
-    height="200"
+    height="150"
   />
   <img
     src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
     alt="Daft Punk Octocat"
-    width="100"
-    height="100"
+    width="150"
+    height="150"
     align="right"
   />
 </div>
