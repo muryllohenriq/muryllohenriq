@@ -24,8 +24,8 @@
   <img
     src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
     alt="Daft Punk Octocat"
-    width="150"
-    height="150"
+    width="180"
+    height="180"
     align="right"
   />
 </div>
